@@ -1,7 +1,0 @@
-.venv
-scheduler/__pycache__/*
-accounts/__pycache__/*
-chat/__pycache__/*
-smartchat/__pycache__/*
-media/__pycache__/*
-ai_assist/__pycache__/*
